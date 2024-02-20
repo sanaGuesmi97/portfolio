@@ -1,0 +1,3 @@
+bonjour
+
+{{$passion->id}}
